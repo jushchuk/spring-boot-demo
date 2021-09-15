@@ -11,7 +11,7 @@ public class Application {
 
   @RequestMapping("/")
   public String home() {
-    return "Hello Docker World 9/14/2021";
+    return "Hello Docker World 9/15/2021";
   }
 
   public static void main(String[] args) {
